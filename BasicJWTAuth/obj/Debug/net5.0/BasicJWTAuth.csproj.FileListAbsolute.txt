@@ -1,0 +1,84 @@
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.csproj.AssemblyReference.cache
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.AssemblyInfoInputs.cache
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.AssemblyInfo.cs
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.csproj.CoreCompileInputs.cache
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.exe
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.deps.json
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.runtimeconfig.json
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.runtimeconfig.dev.json
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\ref\BasicJWTAuth.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.pdb
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\EPPlus.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\staticwebassets\BasicJWTAuth.StaticWebAssets.Manifest.cache
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\staticwebassets\BasicJWTAuth.StaticWebAssets.xml
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\scopedcss\bundle\BasicJWTAuth.styles.css
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.RazorTargetAssemblyInfo.cache
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.csproj.CopyComplete
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\ref\BasicJWTAuth.dll
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.pdb
+C:\Users\vivek.kushwaha\source\repos\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.genruntimeconfig.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\appsettings.json
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.exe
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.deps.json
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.runtimeconfig.json
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.runtimeconfig.dev.json
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\ref\BasicJWTAuth.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\BasicJWTAuth.pdb
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\EPPlus.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.csproj.AssemblyReference.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.AssemblyInfoInputs.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.AssemblyInfo.cs
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.csproj.CoreCompileInputs.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\staticwebassets\BasicJWTAuth.StaticWebAssets.Manifest.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\staticwebassets\BasicJWTAuth.StaticWebAssets.xml
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\scopedcss\bundle\BasicJWTAuth.styles.css
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.RazorTargetAssemblyInfo.cache
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.csproj.CopyComplete
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\ref\BasicJWTAuth.dll
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.pdb
+D:\Vivek Singh\Test\BasicJWTAuth\BasicJWTAuth\obj\Debug\net5.0\BasicJWTAuth.genruntimeconfig.cache
