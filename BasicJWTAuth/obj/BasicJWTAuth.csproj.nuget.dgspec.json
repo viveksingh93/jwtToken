@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vivek Singh\\Test\\BasicJWTAuth\\BasicJWTAuth\\BasicJWTAuth.csproj": {}
+    "C:\\Users\\vivek.kushwaha\\Desktop\\vue-tut\\Tutorial_Project\\New folder\\jwtToken\\BasicJWTAuth\\BasicJWTAuth.csproj": {}
   },
   "projects": {
-    "D:\\Vivek Singh\\Test\\BasicJWTAuth\\BasicJWTAuth\\BasicJWTAuth.csproj": {
+    "C:\\Users\\vivek.kushwaha\\Desktop\\vue-tut\\Tutorial_Project\\New folder\\jwtToken\\BasicJWTAuth\\BasicJWTAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vivek Singh\\Test\\BasicJWTAuth\\BasicJWTAuth\\BasicJWTAuth.csproj",
+        "projectUniqueName": "C:\\Users\\vivek.kushwaha\\Desktop\\vue-tut\\Tutorial_Project\\New folder\\jwtToken\\BasicJWTAuth\\BasicJWTAuth.csproj",
         "projectName": "BasicJWTAuth",
-        "projectPath": "D:\\Vivek Singh\\Test\\BasicJWTAuth\\BasicJWTAuth\\BasicJWTAuth.csproj",
+        "projectPath": "C:\\Users\\vivek.kushwaha\\Desktop\\vue-tut\\Tutorial_Project\\New folder\\jwtToken\\BasicJWTAuth\\BasicJWTAuth.csproj",
         "packagesPath": "C:\\Users\\vivek.kushwaha\\.nuget\\packages\\",
-        "outputPath": "D:\\Vivek Singh\\Test\\BasicJWTAuth\\BasicJWTAuth\\obj\\",
+        "outputPath": "C:\\Users\\vivek.kushwaha\\Desktop\\vue-tut\\Tutorial_Project\\New folder\\jwtToken\\BasicJWTAuth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

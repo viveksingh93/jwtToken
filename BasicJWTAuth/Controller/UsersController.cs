@@ -28,9 +28,7 @@ namespace BasicJWTAuth.Controller
 		{
 			var users = new List<string>
 			{
-				"Vivek singh",
-				"Santu singh",
-				"Ravi singh"
+				"john Deoh",
 			};
 			return users;
 		}
